@@ -235,7 +235,7 @@ Jalankan berkas SQL berikut secara berurutan pada SQL Editor dashboard Supabase 
 
 ## Lisensi
 
-Proyek ini dirilis di bawah lisensi **MIT License**. Anda bebas menyalin, memodifikasi, dan menyebarkan kode sumber ini sesuai dengan ketentuan lisensi.
+Proyek ini dirilis di bawah lisensi **GNU GENERAL PUBLIC LICENSE Version 3**. Anda bebas menyalin, memodifikasi, dan menyebarkan kode sumber ini sesuai dengan ketentuan lisensi dengan menyebutkan atribusi dan lisensi ini tanpa di ubah.
 
 ---
 *Dibuat oleh Tim **SMK MARHAS Margahayu** untuk LKS EKKA National Competition 2026.*
